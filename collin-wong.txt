@@ -1,5 +1,5 @@
-one word
-six words
+one letter
+two words
 three words
-seven words
+four words
 five words
